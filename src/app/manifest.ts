@@ -8,8 +8,8 @@ export default function manifest(): MetadataRoute.Manifest {
       "Acompañamiento conversacional para crecimiento personal y bienestar emocional.",
     start_url: "/",
     display: "standalone",
-    background_color: "#fafafa",
-    theme_color: "#18181b",
+    background_color: "#e8e4da",
+    theme_color: "#e8e4da",
     lang: "es-MX",
     icons: [
       { src: "/icons/icon-192.png", sizes: "192x192", type: "image/png" },
